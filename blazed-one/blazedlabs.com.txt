@@ -1,0 +1,7 @@
+== Front ==
+- Root (www)
+    = Hugo/Cupper
+    - Home
+    - About
+    - Blog
+    @ Netlify

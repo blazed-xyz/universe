@@ -1,0 +1,8 @@
+== Front ==
+- Root (www)
+    = Svelte/Fire
+    - Home
+    - About
+    - Projects
+    @ Netlify
+    

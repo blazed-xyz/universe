@@ -1,0 +1,10 @@
+== Front ==
+- Root (www)
+    = React/Fire
+    - Home
+    @ Netlify
+
+- Parking (parking)
+    = Static HTML
+    - Home
+    @ Github Pages
